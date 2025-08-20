@@ -33,12 +33,12 @@ You can fetch the JSON file directly with any HTTP client.
 
 **CLI (cURL)**
 ```bash
-curl https://yourusername.github.io/my-music-api/data.json
+curl https://nobleenia.github.io/groupietracker-teasers/data.json
 ```
 
 Pretty-print with jq (install it first with sudo apt install jq or brew install jq):
 ```bash
-curl -s https://yourusername.github.io/my-music-api/data.json | jq
+curl -s https://nobleenia.github.io/groupietracker-teasers/data.json | jq
 ```
 
 **JavaScript (Fetch API)**
