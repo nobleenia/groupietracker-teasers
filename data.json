@@ -1,0 +1,418 @@
+[
+  {
+    "id": 1,
+    "name": "Queen",
+    "genres": ["rock", "glam rock", "hard rock"],
+    "top_songs": ["Bohemian Rhapsody", "We Will Rock You", "Don't Stop Me Now"],
+    "teaser": "British rock icons with stadium-sized anthems.",
+    "image": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982"
+  },
+  {
+    "id": 2,
+    "name": "SOJA",
+    "genres": ["reggae", "roots reggae"],
+    "top_songs": ["You and Me", "I Don't Wanna Wait", "Not Done Yet"],
+    "teaser": "US reggae outfit blending roots with social themes.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb63249f1bc63ff8d4205efbc8"
+  },
+  {
+    "id": 3,
+    "name": "Pink Floyd",
+    "genres": ["progressive rock", "psychedelic rock", "art rock"],
+    "top_songs": ["Wish You Were Here", "Comfortably Numb", "Another Brick in the Wall"],
+    "teaser": "Pioneers of progressive psychedelia and concept albums.",
+    "image": "https://i.scdn.co/image/e69f71e2be4b67b82af90fb8e9d805715e0684fa"
+  },
+  {
+    "id": 4,
+    "name": "Scorpions",
+    "genres": ["hard rock", "heavy metal"],
+    "top_songs": ["Wind of Change", "Rock You Like a Hurricane", "Still Loving You"],
+    "teaser": "German hard rockers known for power ballads.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7440170c0628c2945da819c3"
+  },
+  {
+    "id": 5,
+    "name": "XXXTentacion",
+    "genres": ["hip hop", "emo rap", "trap"],
+    "top_songs": ["SAD!", "Jocelyn Flores", "Moonlight"],
+    "teaser": "Genre-blending rapper with emotive, lo-fi aesthetics.",
+    "image": "https://i.scdn.co/image/ab67616d0000b273f61fa638bd40c4c6595c9ed9"
+  },
+  {
+    "id": 6,
+    "name": "Mac Miller",
+    "genres": ["hip hop", "alternative hip hop"],
+    "top_songs": ["Self Care", "Good News", "Dang!"],
+    "teaser": "Introspective rapper-producer with jazz-inflected beats.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebed3b89aa602145fde71a163a"
+  },
+  {
+    "id": 7,
+    "name": "Joyner Lucas",
+    "genres": ["hip hop", "conscious rap"],
+    "top_songs": ["I'm Not Racist", "ISIS", "Devil's Work"],
+    "teaser": "Narrative-driven rapper known for sharp storytelling.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf94c47d61b62caf79c57b091"
+  },
+  {
+    "id": 8,
+    "name": "Kendrick Lamar",
+    "genres": ["hip hop", "conscious hip hop", "west coast hip hop"],
+    "top_songs": ["HUMBLE.", "Alright", "DNA."],
+    "teaser": "Pulitzer-winning rapper redefining West Coast hip hop.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918"
+  },
+  {
+    "id": 9,
+    "name": "ACDC",
+    "genres": ["hard rock", "blues rock"],
+    "top_songs": ["Back in Black", "Thunderstruck", "Highway to Hell"],
+    "teaser": "High-voltage hard rock built for arenas.",
+    "image": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b"
+  },
+  {
+    "id": 10,
+    "name": "Pearl Jam",
+    "genres": ["alternative rock", "grunge"],
+    "top_songs": ["Alive", "Even Flow", "Jeremy"],
+    "teaser": "Seattle legends of the grunge era.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe431fb8ba17cdee73e4ce08a"
+  },
+  {
+    "id": 11,
+    "name": "Katy Perry",
+    "genres": ["pop", "dance-pop"],
+    "top_songs": ["Firework", "Teenage Dream", "Roar"],
+    "teaser": "Pop powerhouse with chart-dominating hooks.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0988562f78810e47a6e3325f"
+  },
+  {
+    "id": 12,
+    "name": "Rihanna",
+    "genres": ["pop", "R&B", "dancehall"],
+    "top_songs": ["Umbrella", "Diamonds", "We Found Love"],
+    "teaser": "Barbadian superstar fusing pop, R&B and dancehall.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb373e1be0410d4212bf72acab"
+  },
+  {
+    "id": 13,
+    "name": "Genesis",
+    "genres": ["progressive rock", "pop rock"],
+    "top_songs": ["Invisible Touch", "Land of Confusion", "I Can't Dance"],
+    "teaser": "From prog innovators to polished pop architects.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba6a5c327ebbc1131effef2e0"
+  },
+  {
+    "id": 14,
+    "name": "Phil Collins",
+    "genres": ["pop rock", "soft rock"],
+    "top_songs": ["In the Air Tonight", "Against All Odds (Take a Look at Me Now)", "Another Day in Paradise"],
+    "teaser": "Drummer-turned-frontman with timeless pop ballads.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd4e38c4e3e5c82774740e28d"
+  },
+  {
+    "id": 15,
+    "name": "Led Zeppelin",
+    "genres": ["hard rock", "blues rock"],
+    "top_songs": ["Stairway to Heaven", "Whole Lotta Love", "Kashmir"],
+    "teaser": "Heavy blues turned into hard rock myth.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebd8205a492a79bfe4b34c567a"
+  },
+  {
+    "id": 16,
+    "name": "The Jimi Hendrix Experience",
+    "genres": ["psychedelic rock", "blues rock"],
+    "top_songs": ["Purple Haze", "All Along the Watchtower", "Hey Joe"],
+    "teaser": "Boundary-pushing guitar virtuosity.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb31f6ab67e6025de876475814"
+  },
+  {
+    "id": 17,
+    "name": "Bee Gees",
+    "genres": ["disco", "pop"],
+    "top_songs": ["Stayin' Alive", "How Deep Is Your Love", "Night Fever"],
+    "teaser": "Falsetto-led pop and the sound of disco.",
+    "image": "https://i.scdn.co/image/1d5a05673975ba0c378cd280344e000b0b865620"
+  },
+  {
+    "id": 18,
+    "name": "Deep Purple",
+    "genres": ["hard rock", "heavy metal"],
+    "top_songs": ["Smoke on the Water", "Highway Star", "Perfect Strangers"],
+    "teaser": "Proto-metal titans with virtuosic riffs.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb10a8061c6085d2186adcb6dd"
+  },
+  {
+    "id": 19,
+    "name": "Aerosmith",
+    "genres": ["hard rock", "blues rock", "glam rock"],
+    "top_songs": ["Dream On", "I Don't Want to Miss a Thing", "Crazy"],
+    "teaser": "Boston bad boys mixing blues and glam.",
+    "image": "https://i.scdn.co/image/eebed895cad509b17c7c6faf47f21f1fc35e8829"
+  },
+  {
+    "id": 20,
+    "name": "Dire Straits",
+    "genres": ["rock", "roots rock"],
+    "top_songs": ["Sultans of Swing", "Money for Nothing", "Brothers in Arms"],
+    "teaser": "Laid-back guitar craft and crisp storytelling.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb20684804eb0985642aea7ff2"
+  },
+  {
+    "id": 21,
+    "name": "Mamonas Assassinas",
+    "genres": ["comedy rock", "brazilian rock"],
+    "top_songs": ["Pelados em Santos", "Robocop Gay", "Vira-Vira"],
+    "teaser": "Brazilian comedy rock phenomenon of the 90s.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe59f7f62bca6c4a4d599d9fb"
+  },
+  {
+    "id": 22,
+    "name": "Thirty Seconds to Mars",
+    "genres": ["alternative rock", "arena rock"],
+    "top_songs": ["The Kill", "Kings and Queens", "Closer to the Edge"],
+    "teaser": "Cinematic alternative rock with grand choruses.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5307a8a358283efe769d9c2a"
+  },
+  {
+    "id": 23,
+    "name": "Imagine Dragons",
+    "genres": ["alternative rock", "pop rock"],
+    "top_songs": ["Radioactive", "Believer", "Demons"],
+    "teaser": "Anthemic alt-pop built for arenas.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebab47d8dae2b24f5afe7f9d38"
+  },
+  {
+    "id": 24,
+    "name": "Juice Wrld",
+    "genres": ["hip hop", "emo rap"],
+    "top_songs": ["Lucid Dreams", "All Girls Are the Same", "Robbery"],
+    "teaser": "Melodic emo-rap with confessional themes.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb23a60030944f7853c21565ef"
+  },
+  {
+    "id": 25,
+    "name": "Logic",
+    "genres": ["hip hop", "conscious rap"],
+    "top_songs": ["1-800-273-8255", "Homicide", "Under Pressure"],
+    "teaser": "Technical lyricist with mainstream crossover hits.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb646477c13fe9ffb656d3607d"
+  },
+  {
+    "id": 26,
+    "name": "Alec Benjamin",
+    "genres": ["pop", "singer-songwriter"],
+    "top_songs": ["Let Me Down Slowly", "If We Have Each Other", "Water Fountain"],
+    "teaser": "Narrative pop with delicate vocals.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb5c66d1d3f87e0f186b73b8e8"
+  },
+  {
+    "id": 27,
+    "name": "Bobby McFerrins",
+    "genres": ["vocal jazz", "a cappella"],
+    "top_songs": ["Don't Worry, Be Happy", "Drive", "Thinkin' About Your Body"],
+    "teaser": "A cappella virtuoso and vocal innovator.",
+    "image": "https://i.scdn.co/image/ab6772690000c46c38b1b727d47e4f73a38b976b"
+  },
+  {
+    "id": 28,
+    "name": "R3HAB",
+    "genres": ["EDM", "house", "progressive house"],
+    "top_songs": ["All Around The World (La La La)", "Lullaby", "Trouble"],
+    "teaser": "Festival-sized EDM and pop crossovers.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb16410f416adb3f56e67f6852"
+  },
+  {
+    "id": 29,
+    "name": "Post Malone",
+    "genres": ["hip hop", "pop rap"],
+    "top_songs": ["Rockstar", "Circles", "Sunflower"],
+    "teaser": "Melody-first blend of hip hop and pop.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe17c0aa1714a03d62b5ce4e0"
+  },
+  {
+    "id": 30,
+    "name": "Travis Scott",
+    "genres": ["hip hop", "trap"],
+    "top_songs": ["SICKO MODE", "goosebumps", "HIGHEST IN THE ROOM"],
+    "teaser": "Atmospheric trap with arena energy.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebcdc193d2ec8287a4917417ba"
+  },
+  {
+    "id": 31,
+    "name": "J. Cole",
+    "genres": ["hip hop", "conscious hip hop"],
+    "top_songs": ["No Role Modelz", "MIDDLE CHILD", "Power Trip"],
+    "teaser": "Thoughtful bars and soulful production.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4b053c29fd4b317ff825f0dc"
+  },
+  {
+    "id": 32,
+    "name": "Nickelback",
+    "genres": ["post-grunge", "alternative rock"],
+    "top_songs": ["How You Remind Me", "Photograph", "Far Away"],
+    "teaser": "Post-grunge hooks and radio rock.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb4ad382f899596d8c7b9e8e09"
+  },
+  {
+    "id": 33,
+    "name": "Mobb Deep",
+    "genres": ["hip hop", "east coast hip hop", "hardcore hip hop"],
+    "top_songs": ["Shook Ones, Pt. II", "Survival of the Fittest", "Quiet Storm"],
+    "teaser": "Queensbridge hardcore with grim realism.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf85a8db4c66d84f796d2afe5"
+  },
+  {
+    "id": 34,
+    "name": "Guns N' Roses",
+    "genres": ["hard rock", "glam metal"],
+    "top_songs": ["Sweet Child o' Mine", "Welcome to the Jungle", "November Rain"],
+    "teaser": "Sunset Strip swagger and epic ballads.",
+    "image": "https://i.scdn.co/image/ce03b673d12a1b23eecc4c3f790e36ea6005aa42"
+  },
+  {
+    "id": 35,
+    "name": "NWA",
+    "genres": ["hip hop", "gangsta rap", "west coast hip hop"],
+    "top_songs": ["Straight Outta Compton", "Express Yourself", "Gangsta Gangsta"],
+    "teaser": "Pioneers of West Coast gangsta rap.",
+    "image": "https://i.scdn.co/image/4f36d3f900eaf8381b0d3f5febe0e5bf8c94dbea"
+  },
+  {
+    "id": 36,
+    "name": "U2",
+    "genres": ["rock", "alternative rock"],
+    "top_songs": ["With or Without You", "One", "Beautiful Day"],
+    "teaser": "Arena rock anthems with spiritual undertones.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe62be215d2ee31bcd97edaba"
+  },
+  {
+    "id": 37,
+    "name": "Arctic Monkeys",
+    "genres": ["indie rock", "garage rock"],
+    "top_songs": ["Do I Wanna Know?", "R U Mine?", "I Bet You Look Good on the Dancefloor"],
+    "teaser": "Indie rock wit and nocturnal grooves.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f"
+  },
+  {
+    "id": 38,
+    "name": "Fall Out Boy",
+    "genres": ["pop punk", "emo pop", "alternative rock"],
+    "top_songs": ["Sugar, We're Goin Down", "Thnks fr th Mmrs", "Centuries"],
+    "teaser": "Pop-punk turned stadium pop.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb362011ebe6064c38e97e9aac"
+  },
+  {
+    "id": 39,
+    "name": "Gorillaz",
+    "genres": ["alternative", "trip hop", "electronic"],
+    "top_songs": ["Feel Good Inc.", "Clint Eastwood", "DARE"],
+    "teaser": "Virtual band blending hip hop, dub and electronica.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb21575ab5a9b2d6744ad10964"
+  },
+  {
+    "id": 40,
+    "name": "Eagles",
+    "genres": ["rock", "country rock", "soft rock"],
+    "top_songs": ["Hotel California", "Take It Easy", "Desperado"],
+    "teaser": "Country-tinged Californian soft rock.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0767e116a2307495e37cd7fb"
+  },
+  {
+    "id": 41,
+    "name": "Linkin Park",
+    "genres": ["nu metal", "alternative rock", "rap rock"],
+    "top_songs": ["In the End", "Numb", "What I've Done"],
+    "teaser": "Nu metal meets synth-driven alt rock.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb29af2ffb6f4ddd6324f878bc"
+  },
+  {
+    "id": 42,
+    "name": "Red Hot Chili Peppers",
+    "genres": ["alternative rock", "funk rock"],
+    "top_songs": ["Under the Bridge", "Californication", "Scar Tissue"],
+    "teaser": "Funk-fuelled alternative rock.",
+    "image": "https://i.scdn.co/image/ce03b673d12a1b23eecc4c3f790e36ea6005aa42"
+  },
+  {
+    "id": 43,
+    "name": "Eminem",
+    "genres": ["hip hop", "rap"],
+    "top_songs": ["Lose Yourself", "Stan", "The Real Slim Shady"],
+    "teaser": "Relentless wordplay and cultural impact.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eba00b11c129b27a88fc72f36b"
+  },
+  {
+    "id": 44,
+    "name": "Green Day",
+    "genres": ["punk rock", "pop punk"],
+    "top_songs": ["Basket Case", "American Idiot", "Boulevard of Broken Dreams"],
+    "teaser": "Hooky punk with political bite.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb6ff0cd5ef2ecf733804984bb"
+  },
+  {
+    "id": 45,
+    "name": "Metallica",
+    "genres": ["heavy metal", "thrash metal"],
+    "top_songs": ["Enter Sandman", "Nothing Else Matters", "Master of Puppets"],
+    "teaser": "Thrash metal giants turned global heavyweights.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb69ca98dd3083f1082d740e44"
+  },
+  {
+    "id": 46,
+    "name": "Coldplay",
+    "genres": ["alternative rock", "pop rock"],
+    "top_songs": ["Yellow", "Fix You", "Viva la Vida"],
+    "teaser": "Melodic alt-rock with widescreen sentiment.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb1ba8fc5f5c73e7e9313cc6eb"
+  },
+  {
+    "id": 47,
+    "name": "Maroon 5",
+    "genres": ["pop rock", "funk pop"],
+    "top_songs": ["She Will Be Loved", "Sugar", "Moves Like Jagger"],
+    "teaser": "Pop-rock polish and radio-ready choruses.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebf8349dfb619a7f842242de77"
+  },
+  {
+    "id": 48,
+    "name": "Twenty One Pilots",
+    "genres": ["alternative", "electropop", "hip hop"],
+    "top_songs": ["Stressed Out", "Ride", "Heathens"],
+    "teaser": "Genre-fluid duo with candid lyrics.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b"
+  },
+  {
+    "id": 49,
+    "name": "The Rolling Stones",
+    "genres": ["rock", "blues rock"],
+    "top_songs": ["(I Can't Get No) Satisfaction", "Paint It, Black", "Gimme Shelter"],
+    "teaser": "Enduring rock & roll swagger.",
+    "image": "https://i.scdn.co/image/ab6761610000e5ebe4cea917b68726aadb4854b8"
+  },
+  {
+    "id": 50,
+    "name": "Muse",
+    "genres": ["alternative rock", "progressive rock", "space rock"],
+    "top_songs": ["Uprising", "Starlight", "Supermassive Black Hole"],
+    "teaser": "Bombastic alt rock with sci-fi flair.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb0accbbe13e1aa147dd27671c"
+  },
+  {
+    "id": 51,
+    "name": "Foo Fighters",
+    "genres": ["alternative rock", "post-grunge"],
+    "top_songs": ["Everlong", "The Pretender", "Best of You"],
+    "teaser": "Anthemic post-grunge built for live stages.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb909b2c4b7c768ee03445cd10"
+  },
+  {
+    "id": 52,
+    "name": "The Chainsmokers",
+    "genres": ["EDM", "electropop"],
+    "top_songs": ["Closer", "Don't Let Me Down", "Something Just Like This"],
+    "teaser": "EDM-pop duo with viral hooks.",
+    "image": "https://i.scdn.co/image/ab6761610000e5eb587687df50a967731901fcc23"
+  }
+]
