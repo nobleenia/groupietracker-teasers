@@ -52,7 +52,7 @@ fetch("https://nobleenia.github.io/groupietracker-teasers/data.json")
 ```python
 import requests
 
-url = "https://yourusername.github.io/my-music-api/data.json"
+url = "https://nobleenia.github.io/groupietracker-teasers/data.json"
 data = requests.get(url).json()
 print(data)
 ```
@@ -77,7 +77,7 @@ type Artist struct {
 }
 
 func main() {
-    resp, err := http.Get("https://yourusername.github.io/my-music-api/data.json")
+    resp, err := http.Get("https://nobleenia.github.io/groupietracker-teasers/data.json")
     if err != nil {
         panic(err)
     }
